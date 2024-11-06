@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Nest",
+      "request": "launch",
+      "runtimeArgs": [
+        "run-script",
+        "start:debug"
+      ],
+      "runtimeExecutable": "npm",
+      "runtimeVersion": "default",
+      "internalConsoleOptions": "neverOpen",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "type": "node"
+    }
+  ]
+}
